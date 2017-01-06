@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ericsiber/Factorielle.svg?branch=etape4)](https://travis-ci.org/ericsiber/Factorielle)
+[![Build Status](https://travis-ci.org/ericsiber/Factorielle.svg?branch=etape5)](https://travis-ci.org/ericsiber/Factorielle)
 
 # Factorielle
 
